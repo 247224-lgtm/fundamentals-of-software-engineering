@@ -1,1 +1,3 @@
-# fundamentals-of-software-engineering
+## student info
+-Ініціали: Д.І.
+-Групи: 371
