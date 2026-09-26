@@ -84,3 +84,5 @@ Status: Passed.
 The Agile approach is suitable for this project because the application is small and can be gradually improved based on user feedback.
 
 In the future, the application could include sleep history, statistics and reminders.
+## Prototype
+![Sleep Time Calculator Prototype](photo-2026-09-26-15-20-42.jpg)
